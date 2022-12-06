@@ -1,0 +1,18 @@
+*.hprof
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/.idea/
+/simpleDemo/build/
+/zMapping/
+simpleDemo/*.apk
+ */build
+/simpleDemo/proguardMapping.txt
+/simpleDemo/seeds.txt
+/simpleDemo/unused.txt

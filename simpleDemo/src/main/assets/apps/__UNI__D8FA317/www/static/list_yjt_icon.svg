@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>list_yjt_icon</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-客户录入-编辑" transform="translate(-688.000000, -1904.000000)">
+            <g id="编组-2备份" transform="translate(0.000000, 1086.000000)">
+                <g id="list_yjt_icon" transform="translate(688.000000, 818.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                    <path d="M10,4 L21.8738,14.3648059 C22.7059329,15.0911864 22.7916622,16.3546111 22.0652818,17.186744 C22.0111828,17.2487192 21.9533114,17.3072975 21.8919977,17.3621451 L10,28 L10,28" id="形状结合" stroke="#D2D4DA" stroke-width="3" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
