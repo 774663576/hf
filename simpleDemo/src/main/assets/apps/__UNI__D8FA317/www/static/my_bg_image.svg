@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="750px" height="326px" viewBox="0 0 750 326" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>my_bg_image</title>
-    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="my_bg_image" fill="#2C53DA">
-            <path d="M0,0 L750,0 L750,296 C625.018268,316 500.024357,326 375.018268,326 C250.012179,326 125.006089,316 0,296 L0,0 Z" id="形状结合"></path>
-        </g>
-    </g>
-</svg>
