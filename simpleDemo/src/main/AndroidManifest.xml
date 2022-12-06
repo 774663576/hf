@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.techhf.hfcloud">
+    package="com.android.techhf.hfcloud.hf">
 
     <application
         android:allowBackup="true"
@@ -41,7 +41,7 @@
         </activity>
         <meta-data
             android:name="dcloud_appkey"
-            android:value="6fb29c81482883db84ae878e83e8c5bb" />
+            android:value="be8a604c84402320c5638674f602ec35" />
     </application>
 
 </manifest>
