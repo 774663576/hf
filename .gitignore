@@ -9,11 +9,11 @@
 /captures
 .externalNativeBuild
 /.idea/
-/simpleDemo/src/main/assets/apps/
-/simpleDemo/build/
+/app/src/main/assets/apps/
+/app/build/
 /zMapping/
-simpleDemo/*.apk
+app/*.apk
  */build
-/simpleDemo/proguardMapping.txt
-/simpleDemo/seeds.txt
-/simpleDemo/unused.txt
+/app/proguardMapping.txt
+/app/seeds.txt
+/app/unused.txt
