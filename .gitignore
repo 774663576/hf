@@ -9,6 +9,7 @@
 /captures
 .externalNativeBuild
 /.idea/
+/simpleDemo/src/main/assets/apps/
 /simpleDemo/build/
 /zMapping/
 simpleDemo/*.apk
