@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 29
     defaultConfig {
-        applicationId "com.android.techhf.hfcloud.hf"
+        applicationId "io.android.techhf.hfcloud"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
