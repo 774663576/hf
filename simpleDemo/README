@@ -1,0 +1,9 @@
+离线打包步骤：
+1、替换assets下apps目录里的文件
+2、修改assets下data目录里dcloud_control.xml中appid
+3、修改build.gradle中的包名
+4、修改AndroidManifest.xml中的包名
+5、修改AndroidManifest.xml中的dcloud_appkey
+<meta-data
+            android:name="dcloud_appkey"
+            android:value="be8a604c84402320c5638674f602ec35" />
